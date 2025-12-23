@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="Fifth Segment Engineering Logo" width="200px">
+  <img src="./logo.jpg" alt="Fifth Segment Engineering Logo" width="200px">
 </p>
 
 <h1 align="center">Fifth Segment Engineering</h1>
